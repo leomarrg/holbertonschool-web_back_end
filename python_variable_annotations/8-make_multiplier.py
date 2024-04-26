@@ -10,4 +10,3 @@ def make_multiplier(multiplier: float) -> Callable[[float], float]:
     """returns the multiplication of the input
     and the function"""
     return multiplier_func
-
