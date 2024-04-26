@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Function takes float and returns thr string 
+"""Function takes float and returns thr string
     representation"""
 
 
